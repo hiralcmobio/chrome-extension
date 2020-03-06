@@ -8,7 +8,7 @@ and behavior to individual needs or preferences. They are built on web technolog
 
 **How to install New tab quotes chrome extension**
 
-$ git clone https://github.com/hiralcmobio/chrome-extension.git
+    $ git clone https://github.com/hiralcmobio/chrome-extension.git
 
 go to chrome browser and open `chrome://extensions/` and on Developer mode.
 
