@@ -1,4 +1,4 @@
-## **New tab Quotes with Chrome Extension**
+## **New tab quotes with Chrome Extension**
 
 **What is Chrome Extension**
 
@@ -6,7 +6,7 @@ Google Chrome extension manager to turn on/off other extensions quickly and easi
 Extensions are small software programs that customize the browsing experience. They enable users to tailor Chrome functionality 
 and behavior to individual needs or preferences. They are built on web technologies such as HTML, JavaScript, and CSS.
 
-**How to install New tab quotes chrome extension**
+**Installation steps**
 
     $ git clone https://github.com/hiralcmobio/chrome-extension.git
 
